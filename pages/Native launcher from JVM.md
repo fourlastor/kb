@@ -1,0 +1,5 @@
+- It has implementations for Linux, Mac and Windows
+	- https://github.com/openjdk/jdk/blob/master/src/jdk.jpackage/windows/native/applauncher/WinLauncher.cpp
+	- https://github.com/openjdk/jdk/blob/master/src/jdk.jpackage/macosx/native/applauncher/MacLauncher.cpp
+	- https://github.com/openjdk/jdk/blob/master/src/jdk.jpackage/linux/native/applauncher/LinuxLauncher.c
+- #jvm #launcher #c++

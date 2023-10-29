@@ -1,0 +1,2 @@
+- https://jakewharton.com/using-jlink-to-cross-compile-minimal-jres/
+- #jvm #launcher

@@ -1,0 +1,3 @@
+- https://mackyle.github.io/xar/
+- Allows creating XAR archives (dmg?) which can be signed
+	- https://mackyle.github.io/xar/howtosign.html
